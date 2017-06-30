@@ -1,0 +1,21 @@
+enum DRAWMODE{
+	NONE = 0,
+	LINE = 1,
+	SQUARE = 2,
+	CIRCLE = 3,
+	SQUARE_VALUE = 4,
+	CIRCLE_VALUE = 5,
+	FILL_COLOR = 6,
+	REGTANGLE = 7,
+	ERASE = 8,
+	ERASE_ALL = 9,
+	MOVE = 10,
+	ROTATE = 11,
+	SELECT = 12,
+	PENCIL = 13,
+	ELIP = 14,
+	UNDO = 15,
+	COPY = 16,
+	BRUSH = 17,
+	DEL = 18
+};
